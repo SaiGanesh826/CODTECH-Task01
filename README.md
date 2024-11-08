@@ -11,7 +11,7 @@ Duration: SEPTEMBER 20th,2024 to NOVEMBER 20th,2024
 Mentor: Neela Santhosh Kumar
 
 ## Overview of the Project:
-### Project : ToDo List
+### Project Name : ToDo List
 
 The **Todo List App** is a simple, intuitive task management tool designed to help users stay organized by tracking and managing their tasks efficiently. This web application allows users to create, categorize, and monitor their tasks, while offering easy-to-use features such as progress tracking and customizable filters. It combines a clean, responsive design with robust functionality, ensuring a smooth and interactive user experience across both desktop and mobile devices.
 
