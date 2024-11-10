@@ -37,7 +37,9 @@ The **Todo List App** is a simple, intuitive task management tool designed to he
 5. **Interactive User Experience**:
    - **Real-Time Updates**: As tasks are added, completed, or deleted, the UI updates automatically without the need for page reloads.
    - **Empty State Message**: If no tasks exist, a friendly message encourages users to add tasks and get started.
-     
+
+### Sample Pictures:
+
 ![Screenshot 2024-11-08 012401](https://github.com/user-attachments/assets/7afa4bc5-6774-471d-892d-f431d056eb3f)
 ![Screenshot 2024-11-08 012426](https://github.com/user-attachments/assets/fd5e6989-21b6-4ace-b969-4e4427220947)
 
